@@ -1,0 +1,6 @@
+output/*.rds
+output/*.png
+report.html
+.DS_Store
+.Rproj.user/
+.Rhistory
